@@ -119,7 +119,7 @@ verify_binaries() {
     _has_binary "helm"
     _has_binary "jq"
     _has_binary "sops"
-    _has_binary "task"
+#    _has_binary "task"
 }
 
 

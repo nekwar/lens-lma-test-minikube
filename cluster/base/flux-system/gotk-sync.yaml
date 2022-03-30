@@ -7,8 +7,8 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: dev-2
-  url: https://github.com/nekwar/lens-lma-test
+    branch: main
+  url: git@github.com:nekwar/lens-lma-test-minikube.git
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1beta2
 kind: Kustomization
